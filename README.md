@@ -1,1 +1,2 @@
 # GUESSING-NUMBER
+This is a simple Python-based console game where the computer randomly selects a number between 1 and 100, and the player tries to guess it. After each guess, the game provides a hint—either "Too Low!", "Too High!", or "Congratulations!" if the correct number is guessed. The game continues until the player guesses correctly. It also includes basic error handling to ensure the player enters valid numeric input.
